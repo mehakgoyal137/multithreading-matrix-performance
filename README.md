@@ -9,7 +9,7 @@ Simple project to test multithreaded matrix multiplication in Python and save re
 - Saves timing results in `results/execution_times.csv`
 - Saves a performance graph in `results/execution_graph.png`
 - Saves a CPU usage graph in `results/cpu_usage.png`
-- Optional Task Manager screenshot: `results/cpu_taskmanager.png`
+- Optional Task Manager screenshot: `results/cpu_taskmanager.jpeg`
 
 ## Files to check
 
