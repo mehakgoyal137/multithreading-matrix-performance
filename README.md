@@ -26,6 +26,10 @@ cd src
 python matrix_multiplication.py
 ```
 
+## Execution times
+
+See the timing results in [`results/execution_times.csv`](results/execution_times.csv).
+
 ## Graphs
 
 ### Execution time graph
