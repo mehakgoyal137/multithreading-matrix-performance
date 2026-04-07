@@ -35,4 +35,4 @@ python matrix_multiplication.py
 ![CPU Usage](results/cpu_usage.png)
 
 ### Task Manager screenshot
-![Task Manager](results/cpu_taskmanager.png)
+![Task Manager](results/cpu_taskmanager.jpeg)
